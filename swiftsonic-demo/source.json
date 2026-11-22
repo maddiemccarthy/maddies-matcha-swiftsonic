@@ -1,0 +1,37 @@
+{
+    "name": "Matcha with Maddie",
+    "description": "A cozy little source for Matcha with Maddie — five zen, playful matcha recipes.",
+    "tintColor": "#7A965C",
+    "featuredApps": [
+        "com.maddiemccarthy.matcha"
+    ],
+    "apps": [
+        {
+            "name": "Matcha with Maddie SwiftSonic Demo",
+            "bundleIdentifier": "com.maddiemccarthy.matcha",
+            "developerName": "Maddie McCarthy",
+            "localizedDescription": "Five zen, playful matcha recipes — from Iced Vanilla to Pumpkin Spice — with ingredient quantities, prep times, numbered steps, and a Surprise Me button. Works fully offline.",
+            "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/maddies-matcha-swiftsonic/main/swiftsonic-demo/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/maddiemccarthy/maddies-matcha-swiftsonic/main/swiftsonic-demo/screenshots/1.png",
+                "https://raw.githubusercontent.com/maddiemccarthy/maddies-matcha-swiftsonic/main/swiftsonic-demo/screenshots/2.png",
+                "https://raw.githubusercontent.com/maddiemccarthy/maddies-matcha-swiftsonic/main/swiftsonic-demo/screenshots/3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "buildVersion": "1",
+                    "date": "2026-11-22",
+                    "size": 136487,
+                    "downloadURL": "https://github.com/maddiemccarthy/maddies-matcha-swiftsonic/releases/download/swiftsonic-demo-v1.0/MatchaWithMaddie.ipa",
+                    "minOSVersion": "27.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {}
+            }
+        }
+    ],
+    "news": []
+}

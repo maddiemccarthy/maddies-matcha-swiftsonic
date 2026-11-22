@@ -1,0 +1,36 @@
+{
+    "name": "Maddie's Matcha Apps",
+    "description": "Matcha recipes, straight to your iPhone.",
+    "tintColor": "#7A965C",
+    "featuredApps": [
+        "com.maddiemccarthy.matcha"
+    ],
+    "apps": [
+        {
+            "name": "Matcha with Maddie SwiftSonic Demo",
+            "bundleIdentifier": "com.maddiemccarthy.matcha",
+            "developerName": "Maddie McCarthy",
+            "localizedDescription": "Cozy matcha recipes — from Iced Vanilla Matcha to Strawberry Matcha Latte — with ingredients, prep times, and step-by-step methods.",
+            "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/maddies-matcha-swiftsonic/main/trial03/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/maddiemccarthy/maddies-matcha-swiftsonic/main/trial03/screenshots/1-home.png",
+                "https://raw.githubusercontent.com/maddiemccarthy/maddies-matcha-swiftsonic/main/trial03/screenshots/2-detail.png",
+                "https://raw.githubusercontent.com/maddiemccarthy/maddies-matcha-swiftsonic/main/trial03/screenshots/3-detail.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "buildVersion": "1",
+                    "date": "2026-11-22",
+                    "downloadURL": "https://github.com/maddiemccarthy/maddies-matcha-swiftsonic/releases/download/trial03-v1.0/MatchaWithMaddie.ipa",
+                    "size": 136969,
+                    "minOSVersion": "27.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {}
+            }
+        }
+    ]
+}

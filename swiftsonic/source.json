@@ -1,0 +1,46 @@
+{
+    "name": "Matcha with Maddie",
+    "description": "A cozy little home for Matcha with Maddie — five zen, playful matcha drink recipes, fully offline.",
+    "apps": [
+        {
+            "name": "Matcha with Maddie SwiftSonic Demo",
+            "bundleIdentifier": "com.maddiemccarthy.matcha",
+            "developerName": "Maddie McCarthy",
+            "localizedDescription": "Five zen, playful matcha drink recipes — Iced Vanilla, Strawberry Latte, Cold Foam Lavender, Banana Bread, and Pumpkin Spice — with ingredient quantities, prep times, step-by-step instructions, and a Surprise Me button. Works fully offline.",
+            "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/maddies-matcha-swiftsonic/main/swiftsonic/icon.png",
+            "tintColor": "#6E8C52",
+            "screenshots": [
+                {
+                    "imageURL": "https://raw.githubusercontent.com/maddiemccarthy/maddies-matcha-swiftsonic/main/swiftsonic/screenshots/1-home.png",
+                    "width": 1206,
+                    "height": 2622
+                },
+                {
+                    "imageURL": "https://raw.githubusercontent.com/maddiemccarthy/maddies-matcha-swiftsonic/main/swiftsonic/screenshots/2-detail.png",
+                    "width": 1206,
+                    "height": 2622
+                },
+                {
+                    "imageURL": "https://raw.githubusercontent.com/maddiemccarthy/maddies-matcha-swiftsonic/main/swiftsonic/screenshots/3-detail.png",
+                    "width": 1206,
+                    "height": 2622
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "buildVersion": "1",
+                    "date": "2026-11-21",
+                    "size": 84415,
+                    "downloadURL": "https://github.com/maddiemccarthy/maddies-matcha-swiftsonic/releases/download/swiftsonic-v1.0/MatchaWithMaddie.ipa",
+                    "minOSVersion": "27.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {}
+            }
+        }
+    ],
+    "news": []
+}
